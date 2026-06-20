@@ -9,13 +9,16 @@ This isn't a static report. Every chart, KPI, and node on this dashboard respond
 ## 🖥️ Dashboard Preview
 
 **Sales View — Full Business Overview**
-![Sales Performance Dashboard - Sales View](./screenshots/dashboard-sales-view.png)
+
+![Sales Performance Dashboard - Sales View](./dashboard-sales-view.png)
 
 **Quantity View — Toggled via the QTY/SALES Filter**
-![Sales Performance Dashboard - Quantity View](./screenshots/dashboard-qty-view.png)
+
+![Sales Performance Dashboard - Quantity View](./dashboard-qty-view.png)
 
 **Cross-Filtered View — Region + Product Slicers Combined**
-![Sales Performance Dashboard - Cross Filter View](./screenshots/dashboard-cross-filter-view.png)
+
+![Sales Performance Dashboard - Cross Filter View](./dashboard-cross-filter-view.png)
 
 > 🎥 A full interactive walkthrough is available as `INTERACTIVE_DASHBOARD.mp4` in this repository, demonstrating live slicer filtering, the Qty/Sales toggle, and cross-chart highlighting in action.
 
